@@ -30,14 +30,6 @@ $(document).ready(function() {
   });
 
   // =====================
-  // Toggle Disqus
-  // =====================
-
-  $('.js-load-disqus').click(function() {
-    $('.js-disqus').toggle();
-  });
-
-  // =====================
   // Images zoom
   // =====================
 

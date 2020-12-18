@@ -8,14 +8,14 @@
 theme_version: 1.0.2
 
 # Site settings
-title:              Sinai
-logo:               # Logo image URL
+title:              Kaval
+suffix:             .ro
+logo:               # images/logo/kaval.ro.png
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://sinai-jekyll.netlify.com/' # The base hostname & protocol for your site
-twitter:            https://twitter.com/aspirethemes
-facebook:           https://www.facebook.com/aspirethemes
-instagram:          https://www.instagram.com/aspirethemes
+url:                'kaval.ro' # The base hostname & protocol for your site
+facebook:           https://www.facebook.com/daribzzz/
+github:             https://www.github.com/buha
 
 markdown:  kramdown
 permalink: pretty

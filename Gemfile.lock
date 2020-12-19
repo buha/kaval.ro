@@ -262,6 +262,7 @@ DEPENDENCIES
   bundler
   github-pages
   jekyll
+  jekyll-feed
   jekyll-paginate
   jekyll-tagging
 

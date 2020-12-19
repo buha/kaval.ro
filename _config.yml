@@ -13,7 +13,8 @@ suffix:             .ro
 logo:               # images/logo/kaval.ro.png
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'kaval.ro' # The base hostname & protocol for your site
+url:                '' # The base hostname & protocol for your site
+email:              contact@kaval.ro
 facebook:           https://www.facebook.com/daribzzz/
 github:             https://www.github.com/buha
 
